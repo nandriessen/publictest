@@ -1,0 +1,25 @@
+{
+  "testName": "test2",
+  "engine": "string",
+  "observations": {
+    "driverType": 0,
+    "host": "localhost",
+    "port": 27000,
+    "exchangeName": "",
+    "username": "",
+    "password": ""
+  },
+  "corrections": {
+    "driverType": 0,
+    "host": "localhost",
+    "port": 27001,
+    "exchangeName": "",
+    "username": "",
+    "password": ""
+  },
+  "endTime": "2024-04-23",
+  "testType": {
+    "type": 0,
+    "timeRange": "1.00:00:00"
+  }
+}
