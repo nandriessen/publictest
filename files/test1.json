@@ -1,0 +1,25 @@
+{
+  "testName": "test1",
+  "engine": "NEWx64-AUTO-All-auto-stable_20240304.2",
+  "observations": {
+    "driverType": 0,
+    "host": "localhost",
+    "port": 27000,
+    "exchangeName": "tcp",
+    "password": "",
+    "username": ""
+  },
+  "corrections": {
+    "driverType": 0,
+    "host": "localhost",
+    "port": 27001,
+    "exchangeName": "tcp",
+    "password": "",
+    "username": ""
+  },
+  "endTime": "2024-04-23",
+  "testType": {
+    "type": 0,
+    "timeRange": "300"
+  }
+}
